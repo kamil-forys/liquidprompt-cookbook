@@ -1,0 +1,7 @@
+name 'liquidprompt'
+maintainer 'Kamil Forys'
+maintainer_email 'kamil.forys@gmail.com'
+license 'GPL v3'
+description 'Installs/Configures liquidprompt'
+long_description 'Installs/Configures liquidprompt'
+version '0.1.0'
