@@ -13,6 +13,7 @@ Attributes
 Usage
 -----
 Simply add liquidprompt to your run list:
+
 `knife node run_list add NODE "recipe[liquidprompt]"`
 
 TODO
